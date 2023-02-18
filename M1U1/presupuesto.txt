@@ -1,1 +1,5 @@
 gastos del mes
+luz
+agua
+gas
+cable
